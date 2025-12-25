@@ -1,0 +1,13 @@
+# Terraform state
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+
+# SSH keys
+azure-terraform-key
+azure-terraform-key.pub
+*.pem
+*.key
+
+# OS junk
+.DS_Store
